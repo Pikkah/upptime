@@ -11,9 +11,9 @@ sites:
     url: https://www.develop.pikkah.com
   - name: Main API
     url: https://www.api.pikkah.com
-- name: Staging API
+  - name: Staging API
     url: https://www.staging-api.pikkah.com
-- name: Develop API
+  - name: Develop API
     url: https://www.develop-api.pikkah.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
