@@ -15,7 +15,6 @@ sites:
     url: https://www.staging-api.pikkah.com
 - name: Develop API
     url: https://www.develop-api.pikkah.com
-
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
